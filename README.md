@@ -7,5 +7,5 @@ I'm a full stack developer with a passion for creating innovative solutions. Her
 
 Feel free to check out my repositories and projects!
 
-</br>
+<br />
 [![GitHub stats]([https://github-readme-stats.vercel.app/api?username=epicsebastian&show_icons=true&theme=radical)](https://github.com/epicsebastian))
